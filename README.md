@@ -7,7 +7,6 @@ Two steps:
 * Traverse the Huffman Tree and assign codes to characters
 
 
-/br
 From GfG
 * Algorithm:
 The method which is used to construct optimal prefix code is called Huffman coding. This algorithm builds a tree in bottom up manner using a priority queue (or heap)
