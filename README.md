@@ -5,6 +5,8 @@
 Two steps:
 * Build a Huffman Tree from input characters.
 * Traverse the Huffman Tree and assign codes to characters
+
+
 /br
 From GfG
 * Algorithm:
